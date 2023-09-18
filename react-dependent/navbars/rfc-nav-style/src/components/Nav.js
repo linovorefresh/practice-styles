@@ -3,11 +3,11 @@ import './nav.css'
 
 export default function Nav() {
   return (
-    <div>
-      <div>
+    <div className='navbar-container'>
+      <div className='left-nav-sec'>
         Left nav section
       </div>
-      <div>
+      <div className='right-nav-sec'>
         Right nav section
       </div>
     </div>

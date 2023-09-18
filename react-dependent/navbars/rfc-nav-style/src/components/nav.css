@@ -1,0 +1,29 @@
+.navbar-container {
+    background-color: grey;
+    border: 1.5px solid greenyellow;;
+    color: black;
+
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    height: 80px;
+    padding: 4px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-nav-sec {
+    border: 1px solid pink;
+    background-color: violet;
+    margin-left: 2px;
+    padding: 2px;
+    
+}
+
+.right-nav-sec {
+    border: 1px solid violet;
+    background-color: pink;
+    padding: 2px;
+    margin-right: 2px;
+}
