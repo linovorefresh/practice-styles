@@ -1,0 +1,9 @@
+.footer-container {
+    background-color: gray;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+    height: 40px;
+    align-items: center;
+}

@@ -3,7 +3,7 @@ import './footer.css'
 
 export default function Footer() {
   return (
-    <div>
+    <div className='footer-container'>
        &copy; 2023. Practicing layouts with ❤ and respect for development. 
     </div>
   )

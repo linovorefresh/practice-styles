@@ -1,7 +1,8 @@
 .navbar-container {
     background-color: grey;
-    border: 1.5px solid greenyellow;;
-    color: black;
+    /* border: 1.5px solid greenyellow; */
+    color: white;
+    font: bold 18px Arial, san-serif;
 
     display: flex;
     position: sticky;
@@ -14,16 +15,16 @@
 }
 
 .left-nav-sec {
-    border: 1px solid pink;
-    background-color: violet;
+    /* border: 1px solid pink;
+    background-color: violet; */
     margin-left: 2px;
     padding: 2px;
     
 }
 
 .right-nav-sec {
-    border: 1px solid violet;
-    background-color: pink;
+    /* border: 1px solid violet;
+    background-color: pink; */
     padding: 2px;
     margin-right: 2px;
 }
