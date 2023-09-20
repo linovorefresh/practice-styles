@@ -1,5 +1,6 @@
 # These Folders are React Projects
 
+- Navigation Section
 - Hero Section 
 - Grids / Tables 
 - Content/Articles Section 
