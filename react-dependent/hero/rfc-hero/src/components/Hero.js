@@ -1,9 +1,10 @@
 import React from 'react'
+import './hero.css'
 
 export default function Hero() {
   return (
-    <div>
-      Hero Banner HERE!
+    <div className='hero-container'>
+      <img src='./troupe.jpeg' alt='baner' />
     </div>
   )
 }
