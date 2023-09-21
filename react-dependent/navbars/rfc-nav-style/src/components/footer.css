@@ -1,6 +1,6 @@
 .footer-container {
-    background-color: gray;
-    color: whitesmoke;
+    background-color: #f0f0f0;
+    color: grey;
     display: flex;
     justify-content: space-around;
     padding: 8px;
