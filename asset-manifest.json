@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-styles/react-dependent/navbars/rfc-nav-styles/static/css/main.48c029c3.css",
+    "main.js": "/practice-styles/react-dependent/navbars/rfc-nav-styles/static/js/main.8914211d.js",
+    "index.html": "/practice-styles/react-dependent/navbars/rfc-nav-styles/index.html",
+    "main.48c029c3.css.map": "/practice-styles/react-dependent/navbars/rfc-nav-styles/static/css/main.48c029c3.css.map",
+    "main.8914211d.js.map": "/practice-styles/react-dependent/navbars/rfc-nav-styles/static/js/main.8914211d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c029c3.css",
+    "static/js/main.8914211d.js"
+  ]
+}
