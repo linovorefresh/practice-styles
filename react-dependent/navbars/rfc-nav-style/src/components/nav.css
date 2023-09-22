@@ -18,15 +18,15 @@
     /* border: 1px solid pink;
     background-color: violet; */
     margin-left: 12px;
-    padding: 2px;
+    padding: 20px;
     
 }
 
 .right-nav-sec {
     /* border: 1px solid violet;
     background-color: pink; */
-    padding: 2px;
-    margin-right: 2px;
+    padding: 20px;
+    margin-right: 12px;
 }
 
 .nav-cat {
@@ -51,7 +51,7 @@
 }
 
 .dropdown-container > ul {
-    margin: 8px;
+    margin: 8px 24px;
     padding: 8px; 
 }
 
