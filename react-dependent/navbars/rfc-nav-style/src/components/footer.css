@@ -1,9 +1,57 @@
 .footer-container {
-    background-color: gray;
-    color: whitesmoke;
+    background-color: #f0f0f0;
+    color: grey;
+
     display: flex;
-    justify-content: space-around;
-    padding: 8px;
-    height: 40px;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    height: auto;
+}
+
+.section-container {
+    padding: 6px;
+    padding-left: 32px;
+    display: flex;
+    flex-direction: column;
+}
+
+.foot-link {
+    text-decoration: none;
+}
+
+.subscribe-container {
+    padding: 6px 32px;
+    display: flex;
+    flex-direction: column;
+}
+
+.subscribe-container > p {
+    margin-block-start: 0%;
+    margin-block-end: 10px;
+}
+
+.subscribe-container > input {
+    width: 180px;
+    height: 32px;
+    font-size: 14px;
+    padding-left: 8px;
+}
+
+.subscribe-container > button {
+    width: 140px;
+    height: 32px;
+    margin-top: 16px;
+    background-color: grey;
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+a {
+    margin-bottom: 10px;
+}
+
+a:visited {
+    color: grey;
 }
