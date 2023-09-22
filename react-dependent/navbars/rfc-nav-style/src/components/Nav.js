@@ -45,7 +45,7 @@ function DropdownMenu(props) {
   }
 
   return (
-    <div className={ isHoverProp || isHover ? 'dropdown-container' : 'dropdown-container hidden'} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} >
+    <div className={ isHoverProp || isHover ? 'dropdown-container' : 'dropdown-container '} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} >
       <ul><li>item</li><li>item2</li><li>item3</li><li>itemN</li></ul>
       <ul><li>item</li><li>item2</li></ul>
       <div className='ad-container'>
